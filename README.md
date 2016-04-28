@@ -4,3 +4,5 @@ Discover the power of documents and what makes the InterSystems’ approach uniq
 Work on your own machine without installing anything. 
 
 After this experience, you will be able to query any JSON-like data. Happy coding!
+
+#Install
